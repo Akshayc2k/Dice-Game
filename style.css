@@ -1,0 +1,48 @@
+body{
+  background-color: #00F5FF;
+
+}
+
+/* For main container */
+.container{
+width: 70%;
+margin:auto;
+text-align: center;
+}
+
+/* For dice */
+.dice{
+  display: inline-block;
+  text-align: center;
+  margin: 10px;
+}
+
+/* For Fisrst Heading */
+h1{
+  font-family: font-family: 'Lora', serif;
+  text-shadow: 5px 0 #232931;
+  font-size: 4.5rem;
+  text-align: center;
+}
+
+/* For Paragrath */
+p{
+  font-size: 2rem;
+  font-family: font-family: 'Bree Serif', serif;
+}
+
+ .bottom{
+   padding-top: 30px;
+ }
+
+ .butn{
+   padding: 16px 25px;
+   border-radius: 10px;
+   background-color: #FF8FB1;
+   color: #FCE2DB;
+ }
+
+ .butn:hover{
+   background: #3A8891;
+   text-decoration: none;
+ }
